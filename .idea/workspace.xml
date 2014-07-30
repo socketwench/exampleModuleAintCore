@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26975946-b280-4e74-b865-991a32c740bd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exampleModuleAintCore.pptx" afterPath="$PROJECT_DIR$/src/exampleModuleAintCore.pptx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme/night.css" afterPath="$PROJECT_DIR$/css/theme/night.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="exampleModuleAintCore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +29,16 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="18" selection-start="4408" selection-end="4408" vertical-scroll-proportion="0.63829786" vertical-offset="1170" max-vertical-offset="2220">
+            <state line="105" column="113" selection-start="4538" selection-end="4538" vertical-scroll-proportion="0.1898527" vertical-offset="1459" max-vertical-offset="3405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="night.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/theme/night.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="12" selection-start="1160" selection-end="1163" vertical-scroll-proportion="14.692307" vertical-offset="817" max-vertical-offset="2205">
               <folding />
             </state>
           </provider>
@@ -37,7 +47,7 @@
       <file leaf-file-name="sky.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme/sky.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="474" selection-end="1021" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2265">
+            <state line="15" column="0" selection-start="474" selection-end="1021" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2265">
               <folding />
             </state>
           </provider>
@@ -58,7 +68,7 @@
       <file leaf-file-name="LICENSE" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+            <state line="5" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -116,7 +126,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -169,6 +178,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,7 +241,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25755286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26510575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -263,6 +273,68 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="62" selection-start="4978" selection-end="4978" vertical-scroll-proportion="0.0" vertical-offset="1159" max-vertical-offset="2415">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/sky.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="474" selection-end="1021" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2265">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="127" selection-start="115" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="28" selection-start="4568" selection-end="4568" vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/sky.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="474" selection-end="1021" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2265">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="127" selection-start="115" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="58" selection-start="1473" selection-end="1473" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1395">
@@ -328,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme/night.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="973" selection-end="973" vertical-scroll-proportion="0.42519686" vertical-offset="0" max-vertical-offset="2205">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme/sky.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="474" selection-end="1021" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2265">
@@ -342,9 +407,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/night.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="12" selection-start="1160" selection-end="1163" vertical-scroll-proportion="14.692307" vertical-offset="817" max-vertical-offset="2205">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="18" selection-start="4408" selection-end="4408" vertical-scroll-proportion="0.63829786" vertical-offset="1170" max-vertical-offset="2220">
+        <state line="105" column="113" selection-start="4538" selection-end="4538" vertical-scroll-proportion="0.1898527" vertical-offset="1459" max-vertical-offset="3405">
           <folding />
         </state>
       </provider>
