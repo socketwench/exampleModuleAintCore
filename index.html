@@ -215,6 +215,7 @@
                         <img src="images/shadowOfDoubt3.png" />
                     </section>
                     <section data-transition="none">
+                        <h2>Issue #1532612</h2>
                         <img src="images/moveExamplesToCore.png" />
                     </section>
                 </section>
@@ -371,7 +372,13 @@
                         <h1>Example Module Ain't Core</h1>
                     </section>
                     <section>
-                        <h2>Maintaining Examples while Developing new APIs is <em>Painful</em></h2>
+                        <h2>In Core, Examples Wouldn't be Isolated</h2>
+                        <p>Ruins key advantage of Example code</p>
+                    </section>
+                    <section>
+                        <h2>Motive and Purpose Mismatch</h2>
+                        <p class="fragment">Examples' goal is to support contrib devs</p>
+                        <p class="fragment">...not be core's test case</p>
                     </section>
                     <section>
                         <h2>"If anything lacks tests, then we need better test coverage, not examples."</h2>
@@ -383,25 +390,61 @@
                         <p class="fragment">Tests complicated enough without Example code overhead</p>
                     </section>
                     <section>
-                        <p>Examples are pure documentation and should not conflict with active development.</p>
-                    </section>
-                    <section>
-                        <h2>Motive and Purpose Mismatch</h2>
-                        <p class="fragment">Examples' goal is to support contrib devs</p>
-                        <p class="fragment">...not be core's test case</p>
-                    </section>
-                    <section>
-                        <h2>In Core, Examples Wouldn't be Isolated</h2>
-                        <p>Ruins key advantage of Example code</p>
-                        <p>Would require special workflow <em>inside</em> normal core workflow</p>
-                    </section>
-                    <section>
                         <h2>Writing Example Code is a Skill</h2>
                         <p>More than just adding lots of comments</p>
                         <p>Different considerations compared to "production" code</p>
                     </section>
                     <section>
-                        <h2>Examples needs to move faster than core</h2>
+                        <h2>Maintaining Examples while Developing new APIs is <em>Painful</em></h2>
+                        <p class="fragment">All the agony of updating Examples...</p>
+                        <p class="fragment">...and core at the same time!</p>
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful1.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful2.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful3.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful4.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful5.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful6.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful7.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful8.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful9.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful10.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful11.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful12.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful13.png" />
+                    </section>
+                    <section data-transition="none">
+                        <img src="images/mainingPainful14.png" />
+                    </section>
+                    <section>
+                        <h2>Everyone's Pointing Fingers</h2>
+                        <p class="fragment">No one is fixing the problem.</p>
+                        <img src="images/thisIsYourFault.png" />
                     </section>
                 </section>
                 <section>
@@ -433,10 +476,41 @@
                         <h2>Examples Provides Checks and Balances Against Core</h2>
                         <img src="images/checksAndBalances6.png" style="width: 700px;"  />
                     </section>
-                    <section>
+                    <section data-transition="none">
                         <h2>In-Core Examples Would Have a Weird Dev Cycle</h2>
-                        <p>Disable at the beginning</p>
-                        <p>Enable near the end?</p>
+                        <img src="images/cycleWithinCycle1.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>In-Core Examples Would Have a Weird Dev Cycle</h2>
+                        <img src="images/cycleWithinCycle2.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>In-Core Examples Would Have a Weird Dev Cycle</h2>
+                        <img src="images/cycleWithinCycle3.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>In-Core Examples Would Have a Weird Dev Cycle</h2>
+                        <img src="images/cycleWithinCycle4.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>In-Core Examples Would Have a Weird Dev Cycle</h2>
+                        <img src="images/cycleWithinCycle5.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>In-Core Examples Would Have a Weird Dev Cycle</h2>
+                        <img src="images/cycleWithinCycle6.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>In-Core Examples Would Have a Weird Dev Cycle</h2>
+                        <img src="images/cycleWithinCycle7.png" />
+                    </section>
+                    <section>
+                        <h2>But That's Unprecedented!</h2>
+                        <p class="fragment">...Right?</p>
+                    </section>
+                    <section>
+                        <h2>Nope.</h2>
+                        <img src="images/migratePolicy.png" />
                         <p>https://groups.drupal.org/node/436203</p>
                     </section>
                     <section>
@@ -445,6 +519,7 @@
                     </section>
                     <section>
                         <h2>Semantic Versioning Means Core is Fast(er)</h2>
+                        <p class="fragment">But fast enough for Examples?</p>
                     </section>
                 </section>
                 <section>
@@ -452,10 +527,53 @@
                         <h1>We're Trying to Solve The Wrong Problem</h1>
                         <h2 class="fragment">The problem is <em>people</em>.</h2>
                     </section>
+                    <section data-transition="none">
+                        <h2>Breaking the Stalemate</h2>
+                        <img src="images/contribChampion1.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>Breaking the Stalemate</h2>
+                        <img src="images/contribChampion2.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>Breaking the Stalemate</h2>
+                        <img src="images/contribChampion3.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>Breaking the Stalemate</h2>
+                        <img src="images/contribChampion4.png" />
+                    </section>
+                    <section data-background-image="images/championBackground.png" data-background-size="contain">
+                        <h2>The Contrib Champion</h2>
+                        <p>Based on the "Cloud Champion"</p>
+                        <p>Proven way to roll out large, intimidating changes in an enterprise</p>
+                    </section>
                 </section>
                 <section>
                     <section data-background-image="images/examplesBackground.png" data-background-size="contain">
                         <h1>Summary</h1>
+                    </section>
+                    <section>
+                        <h2>Examples has a Special Role</h2>
+                        <p class="fragment grow visible">On-boards new developers</p>
+                        <p class="fragment grow visible">Kickstarts module updates</p>
+                        <p class="fragment grow visible">Signals core is ready for new modules</p>
+                    </section>
+                    <section>
+                        <h2>Both Sides are Right</h2>
+                        <p>Examples is special to the community</p>
+                        <p>But core inclusion isn't a good fit</p>
+                    </section>
+                    <section>
+                        <h2>The Problem isn't Code</h2>
+                        <p>It's that people's needs aren't being met</p>
+                        <p>There's no easy way to meet that without change</p>
+                    </section>
+                    <section>
+                        <h2>We Need a Contrib Champion</h2>
+                        <p>Mediates concerns about core</p>
+                        <p>Supports documentation and examples</p>
+                        <p>Boosts key "front line" modules</p>
                     </section>
                     <section data-transition="none">
                         <h2>Let's Not Point Fingers</h2>
@@ -464,6 +582,10 @@
                     <section data-transition="none">
                         <h2>Let's Make Examples Happy</h2>
                         <img src="images/makeMeatwadHappy2.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>For All of Us</h2>
+                        <img src="images/makeMeatwadHappy3.png" />
                     </section>
                 </section>
                 <section>
