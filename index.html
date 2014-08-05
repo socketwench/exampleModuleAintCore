@@ -513,9 +513,35 @@
                         <img src="images/migratePolicy.png" />
                         <p>https://groups.drupal.org/node/436203</p>
                     </section>
-                    <section>
+                    <section data-transition="none">
                         <h2>Where Should Examples Live in Core?</h2>
-                        <p>While keeping it hidden from users?</p>
+                        <p class="fragment">So developers can easily find it...</p>
+                        <p class="fragment">...while keeping it hidden from users?</p>
+                        <img src="images/whereGoExamples1.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>/modules/examples</h2>
+                        <p class="fragment">The natural place</p>
+                        <p class="fragment">Delete on install or special exception to hide in admin &gt; extend</p>
+                        <img src="images/whereGoExamples2.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>/core/modules/examples</h2>
+                        <p class="fragment">Where all core modules go</p>
+                        <p class="fragment">Examples not really a core module, less discoverability</p>
+                        <img src="images/whereGoExamples3.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>/core/examples</h2>
+                        <p class="fragment">Keeps it in /core, but not "in core"</p>
+                        <p class="fragment">Hidden for users, more discoverable for developers</p>
+                        <img src="images/whereGoExamples4.png" />
+                    </section>
+                    <section data-transition="none">
+                        <h2>/examples</h2>
+                        <p class="fragment">Can't miss it there</p>
+                        <p class="fragment">Must be moved or copied to enable</p>
+                        <img src="images/whereGoExamples5.png" />
                     </section>
                     <section>
                         <h2>Semantic Versioning Means Core is Fast(er)</h2>
